@@ -1,0 +1,182 @@
+{
+  "name": "PayOrFix | Cyan Noir",
+  "dataColors": [
+    "#26CFE3",
+    "#FBBF24",
+    "#2ECC71",
+    "#E74C3C",
+    "#FBBF24",
+    "#A78BFA",
+    "#14B8A6",
+    "#FB7185",
+    "#60A5FA",
+    "#F97316",
+    "#22C55E",
+    "#94A3B8",
+    "#67E8F9",
+    "#FACC15",
+    "#CBD5E1",
+    "#7DD3FC",
+    "#FDBA74",
+    "#C084FC",
+    "#0891B2",
+    "#64748B",
+    "#0E7490",
+    "#334155",
+    "#991B1B",
+    "#A16207",
+    "#475569",
+    "#0284C7",
+    "#C2410C",
+    "#7E22CE",
+    "#164E63",
+    "#52525B",
+    "#0F766E",
+    "#1E293B"
+  ],
+  "good": "#2ECC71",
+  "neutral": "#FBBF24",
+  "bad": "#E74C3C",
+  "maximum": "#26CFE3",
+  "center": "#FBBF24",
+  "minimum": "#E74C3C",
+  "background": "#050912",
+  "foreground": "#E5E7EB",
+  "tableAccent": "#26CFE3",
+  "textClasses": {
+    "callout": {
+      "fontFace": "DejaVu Sans",
+      "fontSize": 28,
+      "color": "#F3F4F6"
+    },
+    "title": {
+      "fontFace": "DejaVu Sans",
+      "fontSize": 14,
+      "color": "#F3F4F6"
+    },
+    "header": {
+      "fontFace": "DejaVu Sans",
+      "fontSize": 11,
+      "color": "#E5E7EB"
+    },
+    "label": {
+      "fontFace": "DejaVu Sans",
+      "fontSize": 10,
+      "color": "#CBD5E1"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#5B6B7D"
+              }
+            },
+            "radius": 8,
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "DejaVu Sans",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#F3F4F6"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "fontFamily": "DejaVu Sans",
+            "color": {
+              "solid": {
+                "color": "#CBD5E1"
+              }
+            }
+          }
+        ],
+        "categoryAxis": [
+          {
+            "gridlineShow": true,
+            "gridlineColor": {
+              "solid": {
+                "color": "#334155"
+              }
+            },
+            "gridlineTransparency": 75
+          }
+        ],
+        "valueAxis": [
+          {
+            "gridlineShow": true,
+            "gridlineColor": {
+              "solid": {
+                "color": "#334155"
+              }
+            },
+            "gridlineTransparency": 75
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "kpi": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
