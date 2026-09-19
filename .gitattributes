@@ -1,0 +1,7 @@
+# Force GitHub to count Jupyter Notebooks in the language statistics
+*.ipynb linguist-documentation=false
+*.ipynb linguist-detectable=true
+
+# Force GitHub to treat SQL files as detectable code, not data/generated dumps
+*.sql linguist-detectable=true
+*.sql linguist-generated=false
