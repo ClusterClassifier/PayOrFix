@@ -10,7 +10,7 @@
 
 > For each department, is attrition primarily driven by compensation variables or structural variables — and does the answer differ meaningfully across departments?
 
-## Tools Used — One-Line Purpose
+## Tools Used
 
 - **Python:** End-to-end data preparation, encoding, exploratory analysis, gap calculations, classification, and visualisation.
 - **Pandas:** Data loading, cleaning, grouping, aggregation, and leaver-versus-stayer comparisons.
